@@ -1,5 +1,5 @@
 _repo: Tales-from-the-Arabic-Volume-03_5244
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Payne, John
@@ -26,5 +26,6 @@ subjects:
 - !lcc 'PJ'
 - !lcsh 'Fairy tales -- Arab countries'
 - !lcsh 'Folklore -- Arab countries'
+- GITenberg
 title: Tales from the Arabic — Volume 03
 url: http://www.gutenberg.org/ebooks/5244
